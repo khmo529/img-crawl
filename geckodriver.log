@@ -1,0 +1,22 @@
+1606553521871	geckodriver	INFO	Listening on 127.0.0.1:56882
+1606553524955	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Pie\\AppData\\Local\\Temp\\rust_mozprofile4cEPFV"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1606553527603	Marionette	INFO	Listening on port 56891
+1606553527637	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606553552163	geckodriver	INFO	Listening on 127.0.0.1:56954
+1606553555227	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Pie\\AppData\\Local\\Temp\\rust_mozprofileutl3H2"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1606553558304	Marionette	INFO	Listening on port 56962
+1606553558421	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606555616003	geckodriver	INFO	Listening on 127.0.0.1:57319
+1606555619047	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Pie\\AppData\\Local\\Temp\\rust_mozprofilejTeNTA"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606555621275	Marionette	INFO	Listening on port 57327
+1606555621709	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606555638157	Marionette	INFO	Stopped listening on port 57327
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
