@@ -15,6 +15,7 @@ count = 0
 for image in images:
     try:
         image.click()
+        time.sleep(2)
         imgUrl = driver.find_element_by_xpath("/html/body/div[2]/c-wiz/div[3]/div[2]/div[3]/div/div/div[3]/div[2]/c-wiz/div[1]/div[1]/div/div[2]/a/img").get_attribute("src")
         urllib.request.urlretrieve(imgUrl, "imgfile/" + a + str(count) + ".jpg")
         count += 1
